@@ -4,9 +4,9 @@ A full-stack web application where users can browse, add, and manage movie revie
 
 🚀 Features
   🔐 User Authentication – Signup/Login system (if enabled)
-  📝 CRUD for Reviews – Add, view, edit, and delete movie reviews
-  ⭐ Ratings – Rate movies along with reviews
-  🔎 Search & Filter – Search movies by name and filter by rating
+  📝 CRUD for Reviews – Add, view, edit, and delete movie reviews 
+  ⭐ Ratings – Rate movies along with reviews 
+  🔎 Search & Filter – Search movies by name and filter by rating 
   📱 Responsive UI – Works on desktop and mobile
   📊 Modern UI/UX – Styled with React + CSS/Bootstrap/Tailwind
 
